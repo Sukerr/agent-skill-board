@@ -9,3 +9,4 @@ venv/
 .skill-tags.json
 .skill-desc-zh.json
 .usage.json
+.skillhub.json
