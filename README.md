@@ -1,4 +1,4 @@
-# Agent Skill Board
+# Agent Skill Hub
 
 一个轻量的本地 Agent Skills 控制台，用来管理 Claude Code、Codex、Hermes 等工具共享的 `SKILL.md` 技能库。
 
@@ -30,8 +30,8 @@ English documentation is available below.
 ## 快速开始
 
 ```bash
-git clone https://github.com/Sukerr/agent-skill-board.git
-cd agent-skill-board
+git clone https://github.com/Sukerr/agent-skill-hub.git
+cd agent-skill-hub
 python3 skill_board.py
 ```
 
@@ -172,7 +172,7 @@ MIT
 
 ## English
 
-A tiny local Agent Skills console for sharing `SKILL.md` folders across tools such as Claude Code, Codex, and Hermes.
+A tiny local Agent Skills hub for sharing `SKILL.md` folders across tools such as Claude Code, Codex, and Hermes.
 
 It includes two zero-dependency Python tools:
 
@@ -199,8 +199,8 @@ No database or frontend build step is required.
 ## Quick Start
 
 ```bash
-git clone https://github.com/Sukerr/agent-skill-board.git
-cd agent-skill-board
+git clone https://github.com/Sukerr/agent-skill-hub.git
+cd agent-skill-hub
 python3 skill_board.py
 ```
 
@@ -235,7 +235,7 @@ Optional variables:
 
 ## Sidecar Files
 
-Agent Skill Board works without sidecar files. If present, it uses:
+Agent Skill Hub works without sidecar files. If present, it uses:
 
 ```text
 .skill-tags.json
